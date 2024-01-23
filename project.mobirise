@@ -68,7 +68,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "canonical-url": false
+    "canonical-url": false,
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
